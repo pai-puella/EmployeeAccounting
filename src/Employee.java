@@ -1,5 +1,4 @@
-import java.util.Arrays;
-    class Employee {
+class Employee {
         private static int counter = 1;
         private int id;
         private String fullName;
